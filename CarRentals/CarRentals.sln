@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRentals", "CarRentals.csproj", "{BCA84684-F738-4587-9C18-BC3D82AB273A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental.Tests", "..\CarRental.Tests\CarRental.Tests.csproj", "{A6C2749A-D981-4F19-8122-853A566D453E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA84684-F738-4587-9C18-BC3D82AB273A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA84684-F738-4587-9C18-BC3D82AB273A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA84684-F738-4587-9C18-BC3D82AB273A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA84684-F738-4587-9C18-BC3D82AB273A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C2749A-D981-4F19-8122-853A566D453E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C2749A-D981-4F19-8122-853A566D453E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C2749A-D981-4F19-8122-853A566D453E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C2749A-D981-4F19-8122-853A566D453E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A16BBC15-5257-4509-9C29-C6159AAD7926}
+	EndGlobalSection
+EndGlobal
