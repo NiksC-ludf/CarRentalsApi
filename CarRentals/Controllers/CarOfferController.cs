@@ -1,7 +1,6 @@
 ﻿namespace CarRentals.Controllers
 {
     using CarRentals.Models;
-    using CarRentals.Models.Enums;
     using CarRentals.Services.CarOfferAggregator;
     using Microsoft.AspNetCore.Mvc;
 
