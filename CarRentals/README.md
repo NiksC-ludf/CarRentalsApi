@@ -4,6 +4,7 @@ I used Moq in this project because im more familiar with it from my current work
 To run this app you should probably 
 - clone the repo
 - open the solution in Visual Studio
+
 run:
 - dotnet restore
 - dotnet build
